@@ -20,7 +20,7 @@ ollama pull wizard-vicuna-uncensored
 
 ## Hardware Requirements
 
-As a general rule at a bare minimum you'll need approximately 1 gb of ram per billion parameters in a model. If you're on a standard raspi 5 with 8gb of ram you'll be limited to 7b models or lower. 
+As a general rule at a bare minimum you'll need approximately 1 gb of ram per billion parameters in a model. If you're on a standard raspi 5 with 8gb of ram you'll be limited to 7b models or lower. I'm running mine on one of the new Raspberry Pi 5s with 16gb of RAM.
 
 ## Running the Script
 
